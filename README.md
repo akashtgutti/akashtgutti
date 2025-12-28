@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 Currently learning Python with Object-Oriented Programming<br>💼 Experience in Credit Risk analysis, SAS programming, and SQL data handling<br>🎓 Recently completed Google Cloud Generative AI Leader Certification, IBM data fundamentals and Pandas in python <br>📊 Skilled in data validation, analytics, data quality and dashboard reporting<br><br>🔧 Technical Skills:<br>      Programming: Python (OOP), SQL, SAS<br>      Domains: Credit Risk, Banking and Insurance, Reporting<br>      Tools: Microsoft Excel, Git, Azure DevOps, Base SAS, Advance SAS, SAS EG and ETL
+🎯 Currently learning Python with Object-Oriented Programming<br>💼 Experience in Credit Risk analysis, SAS programming, and SQL data handling<br>🎓 Recently completed Google Cloud Generative AI Leader Certification, IBM data fundamentals and Pandas in python <br>📊 Skilled in data validation, analytics, data quality and dashboard reporting<br><br>🔧 Technical Skills:<br>      Programming: Python (OOP), SQL, SAS<br>      Domains: Credit Risk, Banking, Insurance and Reporting<br>      Tools: Microsoft Excel, Git, Azure DevOps, Base SAS, Advance SAS, SAS EG and ETL
 
 
 # 💻 Tech Stack:
