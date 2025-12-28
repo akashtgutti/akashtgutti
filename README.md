@@ -1,6 +1,11 @@
 # 💫 About Me:
 🎯 Currently learning Python with Object-Oriented Programming<br>💼 Experience in Credit Risk analysis, SAS programming, and SQL data handling<br>🎓 Recently completed Google Cloud Generative AI Leader Certification, IBM data fundamentals and Pandas in python<br>📊 Skilled in data validation, analytics, data quality and dashboard reporting
 
+# Technical skills:
+1. Base SAS, Advance SAS (SAS macros) and SAS procedures (base SAS and SAS EG 8.3)
+2. Basic of Python with NumPy, Pandas and OOP (Object oriented programming)
+3. Oracle SQL, MySQL
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guttiakash@outlook.com) 
